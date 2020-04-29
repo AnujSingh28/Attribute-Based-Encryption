@@ -2,7 +2,7 @@
 
 >>>python3 Testbed.py<br />
 Enter the name of Algorithm<br />
-RSA<br />
+abenc_lsw08<br />
 
 O/P<br />
 Time taken by Setup function is  ###<br />
