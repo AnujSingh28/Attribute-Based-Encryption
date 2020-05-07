@@ -2,12 +2,12 @@
 
 >>>python3 Testbed.py<br />
 Enter the name of Algorithm<br />
-abenc_lsw08<br />
+<name><br />
 
 O/P<br />
 Time taken by Setup function is  ###<br />
 Time taken by Keygen function is  ###<br />
 Time taken by Encrypt function is  ###<br />
 Time taken by Decrypt function is  ###<br />
-Total time taken by  RSA.py  function is  ###
+Total time taken by <name>.py function is  ###
 
